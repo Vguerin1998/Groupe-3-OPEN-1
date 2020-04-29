@@ -51,7 +51,7 @@ datatemp <- read.table(link, h=TRUE, sep=";", dec=".", row.names=1, encoding="la
 
 ## **Les données**
 
-```{r datatemp1, echo = TRUE,eval=TRUE}
+```{r datatemp1, echo = FALSE,eval=TRUE}
 head(datatemp)
 ##dd
 ```
